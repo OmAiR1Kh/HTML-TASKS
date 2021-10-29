@@ -18,6 +18,12 @@
   justify-content: space-around;
   font-weight: 800;
 }
+.radio{
+  display: flex;
+  align-items: center;
+  margin-left: 39%;
+  margin-top: 10px;
+}
 
 .topnav a {
   float: left;
@@ -37,6 +43,7 @@
   color: #dddcdc;
   height: 50px;
   width: 100px;
+  margin-top: 10px;
 }
 .btn:hover{
   background-color: #dddcdc;
